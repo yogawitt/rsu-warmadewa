@@ -473,6 +473,16 @@
       ],
       "foto" => "img/dokter spesialis/dr. Putu Saraswati Laksmi Dewi, Sp. PD.jpg"
     ],
+    [
+      "nama" => "Dr. dr. Dewa Ayu Putri Sri Masyeni, S.PD-KPTI",
+      "spesialis" => "Penyakit Dalam (Sp.PD.)",
+      "jadwal" =>
+      [
+        ["hari" => "Senin, Kamis, Jumat",
+        "jam"  => "16.30 - 20.30 WITA"],
+      ],
+      "foto" => "img/dokter spesialis/Dr. dr. Dewa Ayu Putri Sri Masyeni, S.PD-KPTI.png"
+    ],
   ];
 
   // Kelompokkan dokter per spesialisasi
